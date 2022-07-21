@@ -10,4 +10,4 @@ The learning algorithms currently planned to be implemented are:
 - Support Vector Machine
 - k-Nearest Neighbors
 
-Additionally, common tools for managing data splitting and model evaluation will also be implemented including.
+Additionally, common tools for managing data splitting and model evaluation will also be implemented.
